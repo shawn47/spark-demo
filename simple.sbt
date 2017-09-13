@@ -4,7 +4,8 @@ version := "1.0"
 
 scalaVersion := "2.11.3"
 
-libraryDependencies += "org.apache.spark" %% "spark-core" % "2.0.0"
+libraryDependencies ++=Seq( "org.apache.spark" %% "spark-core" % "2.2.0",
+                            "org.apache.spark" %% "spark-mllib" % "2.2.0")
 
 resolvers ++= Seq(
   "Akka Repository" at "http://repo.akka.io/releases/",

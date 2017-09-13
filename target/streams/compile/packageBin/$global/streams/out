@@ -1,11 +1,33 @@
-[0m[[0minfo[0m] [0mPackaging /Users/shawn/Documents/projects/spark/demo/target/scala-2.11/simple-project_2.11-1.0.jar ...[0m
+[0m[[0minfo[0m] [0mPackaging /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/simple-project_2.11-1.0.jar ...[0m
 [0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$2$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$2$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$11$$anonfun$12.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$11$$anonfun$12.class[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$2$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$2$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$11.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$11.class[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$7$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$7$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$9$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$9$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$13.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$13.class[0m
 [0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$1.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/shawn/Documents/projects/spark/demo/target/scala-2.11/classes/SimpleJob$$anonfun$1.class[0m
-[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$2.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/shawn/Documents/projects/spark/demo/target/scala-2.11/classes/SimpleJob$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$1.class[0m
 [0m[[0mdebug[0m] [0m	SimpleJob$.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/shawn/Documents/projects/spark/demo/target/scala-2.11/classes/SimpleJob$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$.class[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	SimpleJob$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob$$anonfun$7.class[0m
 [0m[[0mdebug[0m] [0m	SimpleJob.class[0m
-[0m[[0mdebug[0m] [0m	  /Users/shawn/Documents/projects/spark/demo/target/scala-2.11/classes/SimpleJob.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/xiaoyongbo/Documents/projects/spark/spark-demo/target/scala-2.11/classes/SimpleJob.class[0m
 [0m[[0minfo[0m] [0mDone packaging.[0m
